@@ -12,7 +12,7 @@ Algunas aplicaciones y juegos publicados en Google Play y Apple Store en su día
     <b>Demons Hunter Runner</b> - El primer juego un poco serio que publiqué junto con Juan David Sanin. Él diseñó gran parte de los assets 3D con 3dsmax, ZBrush... En un mundo apocalíptico tendrás que enfrentarte a las bestias y sobrevivir. En un mundo medieval apocalíptico, los monstruos empiezan a invadir las aldeas, te verás dentro de un círculo interminable, avanzando y limpiando el mundo de las bestias que lo asolan.
   </li>
   <li>
-    <img src="https://github.com/user-attachments/assets/a722d173-2cb4-4b05-8133-a0a43e116130" alt="icon" />
+    <img src="https://github.com/user-attachments/assets/4f068c18-06ab-482f-8625-fc29c50acf47" alt="icon" />
     <b>Elise</b> - ¡¡Debes sobrevivir en el espacio!! Controla a Elise, una simpática perrita, y ayúdala a esquivar meteoritos, piedras flotantes y gatos con muy mal carácter. Propúlsala con sus propias... Gracias a [Juan David Sanin](https://www.instagram.com/juandsanin), desarrollé este juego sobre su perrita tras una conversación escatológica ;)
   </li>
   <li>
